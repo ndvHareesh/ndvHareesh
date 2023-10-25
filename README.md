@@ -79,7 +79,7 @@ In the realm of computer vision, expertise in deep learning can make me truly in
 
 <!-- https://github.com/sisodiya2421 -->
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/ndvhareesh/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
