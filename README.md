@@ -76,7 +76,7 @@ In the realm of computer vision, expertise in deep learning can make me truly in
 </p>
 
 
-
+![Leetcode Stats](https://leetcard.NDV/NDV)
 <!-- https://github.com/sisodiya2421 -->
 
 ## Let's Connect
